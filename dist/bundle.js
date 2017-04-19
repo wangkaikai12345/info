@@ -14639,7 +14639,7 @@ function(e, t, n) {
             default.createElement("a", {
                     href: "https://github.com"
                 },
-                "https://wangkaikai12345.github.io/ershou.com/")), u.
+                "https://github.com/wangkaikai12345/ershou.com.git")), u.
             default.createElement("dd", null, u.
             default.createElement("span", null, u.
             default.createElement("i", {
